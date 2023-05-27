@@ -1,6 +1,6 @@
 # Trabajos Prácticos de Imágenes Satelitales  
   
-Clonar el repositorio en computadora local  
+Clonar el repositorio en computadora local.  
   
 ## TP1  
   
